@@ -13,7 +13,7 @@ function Socials(props) {
             {...props}
             target="_blank"
             rel="noopener"
-            className="hover:text-pink-300 transform transition duration-300 ease-in-out scale-100 text-white dark:text-black dark:hover:text-pink-300 transform transition duration-300 ease-in-out"
+            className="hover:text-pink-300 transform transition duration-300 hover:scale-125 ease-in-out scale-100 text-white dark:text-black dark:hover:text-pink-300 transform transition duration-300 hover:scale-125 ease-in-out"
         >
             {props.children}
         </a>
