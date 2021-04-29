@@ -23,7 +23,6 @@ export default function Container(props) {
                 <meta content={config.description} name="description"/>
                 <meta property="og:url" content={`https://synthicy.com${router.asPath}`}/>
                 <meta property="og:type" content='website'/>
-                <meta property="og:site_name" content="hi"/>
                 <meta property="og:description" content={config.description}/>
                 <meta property="og:title" content={config.title}/>
                 <meta property="og:image" content={config.image}/>
