@@ -31,7 +31,7 @@ export default function Container(props) {
                 <meta name="twitter:site" content={config.author.twitter}/>
                 <meta name="twitter:title" content={config.title}/>
                 <meta name="twitter:description" content={config.description}/>
-                <meta name="twitter:image" content={config.image}/>
+                <meta name="twitter:image" content={config.author.image}/>
             </Head>
             <header>
 
