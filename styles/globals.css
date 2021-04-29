@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: optional;
+    src: url(../public/fonts/inter-var-latin.woff2) format('woff2');
+}
+
+:root {
+    /* Your default theme */
+    --background: black;
+    --foreground: white;
+}
+
+[data-theme='light'] {
+    --background: white;
+    --foreground: black;
+}
+
+::selection {
+    background-color: #dc939d;
+    color: #fefefe;
+}
+
+html {
+    min-width: 360px;
+    scroll-behavior: smooth;
+}
+
+#__next {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
