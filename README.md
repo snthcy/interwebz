@@ -28,4 +28,4 @@ $ yarn dev
 
 Huge thanks to [Lee Robinson](https://github.com/leerob/) for providing amazing and free of cost courses to teach people
 like me React and Next.js. The general design of the website is inspired from him and
-the  [next.config.js](https://github.com/leerob/leerob.io/blob/main/next.config.js) file is based from his repo.
+the  [next.config.js](https://github.com/leerob/leerob.io/blob/main/next.config.js) file is a modified version of his repo.
