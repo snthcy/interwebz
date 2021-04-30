@@ -6,6 +6,9 @@ My personal website which started off from [html and css](https://github.com/syn
 Javascript, and TailwindCSS is a personal parking spot for all of my projects to showcase, statistics, and ways to reach
 me.
 
+## Lighthouse Score
+<img src="https://cdn.discordapp.com/attachments/450009558866460683/837545251391930408/unknown.png">
+
 ## Running Locally
 
 ```bash
