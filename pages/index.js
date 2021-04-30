@@ -16,7 +16,7 @@ export default function Home() {
                         Hey, I'm norman.
                     </h1>
                     <p className="transition duration-300 ease-in-out text-gray-400 dark:text-gray-600 mb-16 max-w-md mt-2">
-                        14 year old aspiring front end software developer.
+                        14 year old aspiring front end software developer and graphic designer.
                         I do cool manager stuff at <Link
                         href="https://auraside.com"><a
                         className="font-bold focus:outline-none mr-10 transition duration-300 ease-in-out hover:text-pink-300 dark:font-bold hover:text-pink-300">AuraSide.</a></Link>
