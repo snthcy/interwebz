@@ -7,39 +7,39 @@ class NextDocument extends Document {
                 <Head>
                     <link
                         rel="preload"
-                        href="../public/fonts/inter-var-latin.woff2"
+                        href="/fonts/inter-var-latin.woff2"
                         as="font"
                         type="font/woff2"
                         crossOrigin="anonymous"
                     />
-                    <link href="../public/static/favicons/favicon.ico" rel="shortcut icon"/>
-                    <link href="../public/static/favicons/site.webmanifest" rel="manifest"/>
+                    <link href="/static/favicons/favicon.ico" rel="shortcut icon"/>
+                    <link href="/static/favicons/site.webmanifest" rel="manifest"/>
                     <link
-                        href="../public/static/favicons/apple-touch-icon.png"
+                        href="/static/favicons/apple-touch-icon.png"
                         rel="apple-touch-icon"
                         sizes="180x180"
                     />
                     <link
-                        href="../public/static/favicons/favicon-32x32.png"
+                        href="/static/favicons/favicon-32x32.png"
                         rel="icon"
                         sizes="32x32"
                         type="image/png"
                     />
                     <link
-                        href="../public/static/favicons/favicon-16x16.png"
+                        href="/static/favicons/favicon-16x16.png"
                         rel="icon"
                         sizes="16x16"
                         type="image/png"
                     />
                     <link
                         color="#4a9885"
-                        href="../public/static/favicons/safari-pinned-tab.svg"
+                        href="/static/favicons/safari-pinned-tab.svg"
                         rel="mask-icon"
                     />
                     <meta content="#000000" name="theme-color"/>
                     <meta content="#000000" name="msapplication-TileColor"/>
                     <meta
-                        content="../public/static/favicons/browserconfig.xml"
+                        content="/static/favicons/browserconfig.xml"
                         name="msapplication-config"
                     />
                 </Head>
