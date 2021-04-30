@@ -26,7 +26,6 @@ export default function Container(props) {
                 <meta property="og:description" content={config.description}/>
                 <meta property="og:title" content={config.title}/>
                 <meta property="og:image" content={config.author.image}/>
-                <meta name="theme-color" content="#F9A8D4">
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="twitter:site" content={config.author.twitter}/>
                 <meta name="twitter:title" content={config.title}/>

@@ -36,7 +36,7 @@ class NextDocument extends Document {
                         href="/static/favicons/safari-pinned-tab.svg"
                         rel="mask-icon"
                     />
-                    <meta content="#000000" name="theme-color"/>
+                    <meta content="#F9A8D4" name="theme-color"/>
                     <meta content="#000000" name="msapplication-TileColor"/>
                     <meta
                         content="/static/favicons/browserconfig.xml"
