@@ -17,6 +17,9 @@ $ cd interwebz
 $ yarn
 $ yarn dev
 ```
+``` 
+Rename .env.example to .env.local and populate the fields.
+```
 
 ## Built Using
 
