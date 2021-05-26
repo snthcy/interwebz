@@ -1,8 +1,7 @@
-
+ [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsynthicy%2Finterwebz)
 
 <p align="center">
 <img src="https://socialify.git.ci/synthicy/interwebz/image?description=1&font=Inter&forks=1&logo=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F837351626485530634%2F847126061631799386%2Fsynth2k21-01.png&owner=1&pulls=1&stargazers=1&theme=Light" alt="interwebz" width="640" height="320" />
- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsynthicy%2Finterwebz)
 </p>
 
 <p align="center">
