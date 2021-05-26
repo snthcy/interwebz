@@ -4,11 +4,10 @@
 <img src="https://socialify.git.ci/synthicy/interwebz/image?description=1&font=Inter&forks=1&logo=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F837351626485530634%2F847126061631799386%2Fsynth2k21-01.png&owner=1&pulls=1&stargazers=1&theme=Light" alt="interwebz" width="640" height="320" />
 </p>
 
-<p align="center">
 My personal website which started off from [html and css](https://github.com/synthicy/website) and now with Next.js,
 Javascript, and TailwindCSS is a personal parking spot for all of my projects to showcase, statistics, and ways to reach
 me.
-</p>
+
 
 ## Lighthouse Score
 <img src="https://cdn.discordapp.com/attachments/450009558866460683/837545251391930408/unknown.png">
