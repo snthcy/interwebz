@@ -1,6 +1,6 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsynthicy%2Finterwebz)
 
-# synthicy's personal website
+<img src="https://socialify.git.ci/synthicy/interwebz/image?description=1&font=Inter&forks=1&logo=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F837351626485530634%2F847125528745476116%2Fsynth2k21-01-01.png&owner=1&pulls=1&stargazers=1&theme=Dark" alt="interwebz" width="640" height="320" />
 
 My personal website which started off from [html and css](https://github.com/synthicy/website) and now with Next.js,
 Javascript, and TailwindCSS is a personal parking spot for all of my projects to showcase, statistics, and ways to reach
